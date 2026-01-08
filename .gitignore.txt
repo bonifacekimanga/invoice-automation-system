@@ -1,0 +1,25 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (to protect privacy)
+data/
+*.xlsx
+*.xls
+*.csv
+
+# Output files
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
